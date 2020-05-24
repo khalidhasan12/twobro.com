@@ -1,0 +1,158 @@
+@media(max-width:1200px) {
+    #home .home-text {
+        width: 95%;
+    }
+}
+
+@media(max-width:1080px) {
+    #home .home-text h1 {
+        font-size: 4rem;
+    }
+}
+
+@media(max-width:991px) {
+    .container {
+        max-width: 95%;
+    }
+    .mobile-menu span{
+        display: block;
+    }
+    .main-nav {
+        display: none;
+    }
+}
+
+@media(max-width:939px) {
+    #client .c-photo img {
+        width: 7rem;
+        height: 7rem;
+        border-radius: 50%;
+        -webkit-border-radius: 50%;
+        -moz-border-radius: 50%;
+        -ms-border-radius: 50%;
+        -o-border-radius: 50%;
+    }
+    #client .c-review h1{
+        font-size: 2rem;
+    }
+    #client .c-review p{
+        font-size: 1.4rem;
+    }
+    #team .hover .lead{
+        font-size: 1.5rem;
+    }
+}
+
+
+@media(max-width:922px) {
+    #team .hover .social-link .fa {
+        margin: .5rem 0;
+    }
+    #gain .counter-block h4{
+        font-size: 1.7rem;
+    }
+    #gain .counter-number{
+        font-size: 2rem;
+    }
+    #skill .display-4{
+        font-size: 2.5rem;
+    }
+}
+
+@media(max-width:820px) {
+    #home .home-text h1 {
+        font-size: 3.7rem;
+    }
+}
+
+@media(max-width:784px){
+    #gain .counter-block h4{
+        font-size: 1.5rem;
+    }
+}
+
+
+@media(max-width:767px){
+    #hire{
+        min-height: 500px;
+    }
+    #hire .video-icon{
+        margin-top: 5rem;
+    }
+    #client .c-photo img {
+        width: 10rem;
+        height: 10rem;
+        border-radius: 50%;
+        -webkit-border-radius: 50%;
+        -moz-border-radius: 50%;
+        -ms-border-radius: 50%;
+        -o-border-radius: 50%;
+    }
+    #client .c-review h1{
+        font-size: 3rem;
+    }
+    #client .c-review p{
+        font-size: 1.8rem;
+    }
+    #team .hover .lead{
+        font-size: 1.5rem;
+    }
+    #gain .counter-block h4{
+        font-size: 2.5rem;
+    }
+    #gain .counter-number{
+        font-size: 2.5rem;
+    }
+    #skill .display-4{
+        font-size: 3.5rem;
+    }
+    #skill h4{
+        font-size: 2.5rem !important;
+    }
+    #team .hover .social-link .fa {
+        margin: .5rem 1rem;
+    }
+}
+
+
+@media(max-width:575px){
+    #hire .hire-text h1{
+        font-size: 4rem;
+    }
+}
+
+@media(max-width:486px){
+    #home .home-text h1{
+        font-size: 3rem;
+    }
+}
+
+@media(max-width:373px){
+    #home .home-text{
+        margin-top: 2rem;
+    }
+    .btn-contact{
+        margin-top: 0;
+    }
+    .btn-portfolio{
+        margin-top: 1rem;
+    }
+    #hire .hire-text h1{
+        font-size: 3.5rem;
+    }
+    #hire .video-icon{
+        margin-top: 8rem;
+    }
+}
+
+@media(max-width:314px){
+    #home .home-text{
+        margin-top: 0;
+    }
+    #home .home-text h1{
+        font-size: 2rem;
+    }
+    #hire .hire-text h1{
+        font-size: 3.3rem;
+    }
+}
